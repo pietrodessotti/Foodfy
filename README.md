@@ -1,7 +1,7 @@
 # Foodfy
  Projeto do curso LaunchBase - Rocketseat
 
-    Modulo 4 (Iniciando no Front-end)
+    *Modulo 4 (Iniciando no Front-end)*
 
     Desafio: Construindo o Foodfy
     
