@@ -5,7 +5,7 @@ for (let receita of receitas ) {
     receita.addEventListener("click", function(){
         const receitaId = receita.getAttribute("id");
         modalOverlay.classList.add("active")
-        modalOverlay.querySelector("iframe").src = `/Foodfy-site/html/${receitaId}.html`
+        modalOverlay.querySelector("iframe").src = `html/${receitaId}.html`
 
     })
 }
