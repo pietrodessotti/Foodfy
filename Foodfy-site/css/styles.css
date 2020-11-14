@@ -246,3 +246,13 @@ iframe {
     line-height: 21px;
     color: var(--color-por);
 }
+
+/* HOME PAGE */ 
+
+
+
+#home-page {
+    display: block;
+    text-align: center;
+    margin-top: 50px;
+}
