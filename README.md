@@ -6,3 +6,7 @@
     Desafio: Construindo o Foodfy
     
     Crie um site para uma empresa de receitas chamada Foodfy
+
+***Para conhecer basta acessar o link abaixo***
+
+https://pietrodessotti.github.io/Foodfy/Foodfy-site/index.html
