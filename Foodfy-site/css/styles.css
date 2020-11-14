@@ -256,3 +256,15 @@ iframe {
     text-align: center;
     margin-top: 50px;
 }
+
+#home-page a {
+    text-decoration: none;
+    color: #000000;
+}
+
+#home-page a:hover {
+    text-decoration: underline;
+    color: rgb(106, 14, 14);
+    font-weight: bold;
+    transition: 200ms;
+}
