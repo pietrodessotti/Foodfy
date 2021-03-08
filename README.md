@@ -9,4 +9,4 @@
 
 ***Para conhecer basta acessar o link abaixo***
 
-https://pietrodessotti.github.io/Foodfy/Foodfy-site/index.html
+https://pietrodessotti.github.io/Foodfy
